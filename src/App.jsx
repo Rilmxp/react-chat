@@ -1,10 +1,11 @@
-import "./App.css";
+import "./style.scss";
+
+import Register from "./pages/Register";
 
 function App() {
-
   return (
     <>
-      <h1>I miss React</h1>
+      <Register />
     </>
   );
 }
