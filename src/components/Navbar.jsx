@@ -1,7 +1,7 @@
 const Navbar = () => {
   return (
     <div className="navbar">
-      <span className="log">Lama chat</span>
+      <span className="log">Lama Chat</span>
       <div className="user">
         <img
           src="https://images.pexels.com/photos/17123250/pexels-photo-17123250.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"

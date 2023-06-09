@@ -1,5 +1,5 @@
 const Message = () => {
-  return <h1>Message</h1>;
+  return <p>Message</p>;
 };
 
 export default Message;
